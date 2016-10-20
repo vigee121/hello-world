@@ -1,3 +1,5 @@
 # hello-world
 this is for practical
-calcula
+calculator
+c=a+b
+
